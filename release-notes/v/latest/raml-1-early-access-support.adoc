@@ -277,7 +277,7 @@ types:
 * In JavaScript parser (i.e. API Designer, API Console): VALID
 * In Java parser (i.e. RAML editor in Studio, APIkit): INVALID
 
-For the complete list of known features gap refer to the Java parser link:https://github.com/raml-org/raml-java-parser/blob/v2/MISSING.md[MISSING readme]. 
+For the complete list of known features gap refer to the Java parser link:https://github.com/mulesoft-labs/rajapa/blob/5a558ee98236991aaf49d3d03b83b62c48dd1c86/MISSING.md[MISSING readme]. 
 
 
 
